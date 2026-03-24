@@ -22,7 +22,7 @@ It also extracts hardware-aware topology metrics (like T-counts and circuit dept
 It is highly recommended to run this tool inside an isolated Python virtual environment (PEP 668 compliant).
 
 ```bash
-git clone [https://github.com/mauritaniacoder99/QC-Inverter.git](https://github.com/mauritaniacoder99/QC-Inverter.git)
+git clone https://github.com/mauritaniacoder99/QC-Inverter.git
 cd QC-Inverter
 
 python -m venv .venv
